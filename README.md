@@ -27,7 +27,7 @@ As ferramentas centrais utilizadas neste projeto são:
 
 1.  Clone este repositório:
     ```bash
-    git clone https://github.com/felipe-r-regiani/exercicios_regressao_linear.git
+    git clone https://github.com/felipe-r-regiani/machine_learn_0422.git
     ```
 2.  Instale as bibliotecas necessárias:
     ```bash
